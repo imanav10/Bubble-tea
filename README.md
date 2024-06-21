@@ -1,6 +1,8 @@
 ## Bubble-tea 
 demo program
 <br><br/>
+![file](file.png)
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 <h1>Notes</h1>
