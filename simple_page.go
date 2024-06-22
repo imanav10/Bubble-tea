@@ -68,8 +68,9 @@ func (m model) View() string {
 		if _, ok := m.selected[i]; ok {
 
 		s += fmt.Sprintf("%s [%s] %s\n", cursor, checked, choice)
-	}
+		}
 	s += "\nPress q to quit.\n"
+	}
 	return s
 }
 
